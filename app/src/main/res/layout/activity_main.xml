@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/RX0Disposable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RX0 Disposable" />
+
+    <Button
+        android:id="@+id/RX1Operator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RX1 Operator" />
+
+    <Button
+        android:id="@+id/RX02CompositeDisposable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RX02 CompositeDisposable" />
+
+    <Button
+        android:id="@+id/RX03EmpleadoActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RX03 Empleado Activity" />
+
+    <Button
+        android:id="@+id/RX04SingleObservable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RX04SingleObservable" />
+
+    <Button
+        android:id="@+id/RX05PublishSubject"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RX05PublishSubject" />
+
+    <Button
+        android:id="@+id/RX06RXBus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RX06RXBus" />
+
+    <Button
+        android:id="@+id/RX07RXBinding"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RX07RXBinding" />
+
+    <Button
+        android:id="@+id/RX08RXBackPresure"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RX08RXBackPresure" />
+
+    <Button
+        android:id="@+id/RX09RXHotAndCold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RX09RXHotAndCold" />
+
+    <Button
+        android:id="@+id/RX10BackGroundActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RX10 BackGround Activity" />
+
+    <Button
+        android:id="@+id/RX11RetrofitActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RX10 Retrofit Activity" />
+
+</LinearLayout>
